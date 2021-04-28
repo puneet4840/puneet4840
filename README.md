@@ -1,7 +1,7 @@
 ### Hi there, I'm Puneet - aka [Puneet.GitHub.io][website] 👋
 
 ## I'm a Python Developer, and Youtuber!
-- 🔭 I’m currently working on a [Data Structure and Algorithms][]
+- 🔭 I’m currently working on a [Data Structure and Algorithms][Data Structure and Algorithm in Python ]
 - 🌱 I’m currently learning [Machine Learning][]
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -28,7 +28,11 @@
 
 <br />
 <br />
+### Data Structure and Algorithms:
+-  [Data Structure and Algorithm in Python][Data Structure and Algorithm in Python ]
 
+<br />
+<br />
 ### My Projects:
 -  [Virtual Assitant][Project1]
 -  [Desktop Notifier][Project2]
@@ -44,3 +48,4 @@
 [linkedin]: https://www.linkedin.com/in/puneet-kumar-0916271a3
 [Project1 ]: https://github.com/puneet4840/Vitual-Assitant 
 [Project2 ]: https://github.com/puneet4840/Desktop-Notifier
+[Data Structure and Algorithm in Python ]: https://github.com/puneet4840/Data-Structure-and-Algorithms
