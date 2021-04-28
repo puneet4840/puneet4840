@@ -28,11 +28,13 @@
 
 <br />
 <br />
+
 ### Data Structure and Algorithms:
 -  [Data Structure and Algorithm in Python][Data Structure and Algorithm in Python ]
 
 <br />
 <br />
+
 ### My Projects:
 -  [Virtual Assitant][Project1]
 -  [Desktop Notifier][Project2]
