@@ -38,6 +38,7 @@
 ### My Projects:
 -  [Virtual Assitant][Project1]
 -  [Desktop Notifier][Project2]
+-  [TIC TAC TOE Game][Project3]
 
 ---
 
@@ -50,4 +51,5 @@
 [linkedin]: https://www.linkedin.com/in/puneet-kumar-0916271a3
 [Project1 ]: https://github.com/puneet4840/Vitual-Assitant 
 [Project2 ]: https://github.com/puneet4840/Desktop-Notifier
+[Project3 ]: https://github.com/puneet4840/TIC-TAC-TOE-Game
 [Data Structure and Algorithm in Python ]: https://github.com/puneet4840/Data-Structure-and-Algorithms
