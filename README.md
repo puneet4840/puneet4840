@@ -1,6 +1,6 @@
 ### Hi there, I'm Puneet - aka [Puneet.GitHub.io][website] 👋
 
-## I'm a Python Developer, and Youtuber!
+## I'm Pythonista.
 - 🔭 I’m currently working on a [Data Structure and Algorithms][Data Structure and Algorithm in Python ]
 - 🌱 I’m currently learning [Machine Learning][]
 - 👯 I’m looking to collaborate with other content creators
