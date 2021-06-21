@@ -39,6 +39,13 @@
 -  [Virtual Assitant][Project1]
 -  [Desktop Notifier][Project2]
 -  [TIC TAC TOE Game][Project3]
+-  [Used Car Price Prediction][Project4]
+
+<br />
+<br />
+
+### Projects Uploaded On Heroku
+-  [Used Car Price Prediction][Heroku1]
 
 ---
 
@@ -53,3 +60,5 @@
 [Project2 ]: https://github.com/puneet4840/Desktop-Notifier
 [Project3 ]: https://github.com/puneet4840/TIC-TAC-TOE-Game
 [Data Structure and Algorithm in Python ]: https://github.com/puneet4840/Data-Structure-and-Algorithms
+[Project4 ]: https://github.com/puneet4840/Used-Car-Price-Prediction
+[Heroku1 ]: https://used-car-price-prediction-in.herokuapp.com/
