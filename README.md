@@ -1,8 +1,8 @@
 ### Hi there, I'm Puneet - aka [Puneet.GitHub.io][website] 👋
 
 ## I'm Pythonista.
-- 🔭 I’m currently working on a [Data Structure and Algorithms][Data Structure and Algorithm in Python ]
-- 🌱 I’m currently learning [Machine Learning][]
+- 🔭 I’m currently working on Django Framework 
+- 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen music
