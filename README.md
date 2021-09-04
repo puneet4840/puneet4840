@@ -47,6 +47,7 @@
 
 ### Projects Uploaded On Heroku
 -  [Used Car Price Prediction][Heroku1]
+-  [CRUD Students Details][Heroku2]
 
 ---
 
@@ -64,4 +65,4 @@
 [Project4 ]: https://github.com/puneet4840/Used-Car-Price-Prediction
 [Heroku1 ]: https://used-car-price-prediction-in.herokuapp.com/
 [Project5 ]: https://github.com/puneet4840/CRUD-Students-Details/
-[Heroku1 ]: https://crud-students-details.herokuapp.com/
+[Heroku2 ]: https://crud-students-details.herokuapp.com/
