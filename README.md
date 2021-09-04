@@ -40,6 +40,7 @@
 -  [Desktop Notifier][Project2]
 -  [TIC TAC TOE Game][Project3]
 -  [Used Car Price Prediction][Project4]
+-  [CRUD Student Details][Project5]
 
 <br />
 <br />
@@ -62,3 +63,5 @@
 [Data Structure and Algorithm in Python ]: https://github.com/puneet4840/Data-Structure-and-Algorithms
 [Project4 ]: https://github.com/puneet4840/Used-Car-Price-Prediction
 [Heroku1 ]: https://used-car-price-prediction-in.herokuapp.com/
+[Project5 ]: https://github.com/puneet4840/CRUD-Students-Details/
+[Heroku1 ]: https://crud-students-details.herokuapp.com/
