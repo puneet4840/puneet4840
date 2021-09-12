@@ -40,14 +40,14 @@
 -  [Desktop Notifier][Project2]
 -  [TIC TAC TOE Game][Project3]
 -  [Used Car Price Prediction][Project4]
--  [CRUD Student Details][Project5]
+-  [Student Information App][Project5]
 
 <br />
 <br />
 
 ### Projects Uploaded On Heroku
 -  [Used Car Price Prediction][Heroku1]
--  [CRUD Students Details][Heroku2]
+-  [Student Information App][Heroku2]
 
 ---
 
