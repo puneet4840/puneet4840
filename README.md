@@ -1,10 +1,10 @@
-### Hi there, I'm Puneet - aka [Puneet.GitHub.io][website] 👋
+### Hi there, I'm Puneet 👋
 
-## I'm Pythonista.
-- 🔭 I’m currently working on Django Framework 
-- 🌱 I’m currently learning Backend Development
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+## I'm Cloud and DevOps Engineer.
+- 🔭 I’m currently working on Azure Cloud.
+- 🌱 I’m currently learning new technologies.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2025 Goals: Learn new things.
 - ⚡ Fun fact: I love to listen music
 
 ### Connect with me:
