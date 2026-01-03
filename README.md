@@ -1,10 +1,10 @@
 ### Hi there, I'm Puneet 👋
 
 ## I'm Cloud and DevOps Engineer.
-- 🔭 I’m currently working on Azure Cloud.
+- 🔭 I’m currently working on Azure & AWS Cloud.
 - 🌱 I’m currently learning new technologies.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2025 Goals: Learn new things.
+- 🥅 2026 Goals: Learn new things.
 - ⚡ Fun fact: I love to listen music
 
 ### Connect with me:
